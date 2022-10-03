@@ -8,6 +8,6 @@ Amazon EventBridgeを使用して、深夜0時・朝8時に、定期実行され
 
 ### 構成図
 
-![構造](./assets/img/structrue.png)
+![構造](./assets/img/structure.png)
 
 
